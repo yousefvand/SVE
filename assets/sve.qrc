@@ -1,0 +1,4 @@
+<RCC><qresource prefix="/">
+  <file alias="sve.svg">sve.svg</file>
+  <file alias="sve.png">sve-128.png</file>
+</qresource></RCC>

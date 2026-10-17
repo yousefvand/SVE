@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=SVE
+GenericName=Video Editor
+Comment=Trim, filter, and encode video with a modern Qt interface
+Exec="@SVE_EXECUTABLE@" %f
+TryExec=@SVE_EXECUTABLE@
+Icon=@SVE_ICON@
+Terminal=false
+StartupNotify=true
+StartupWMClass=sve
+Categories=AudioVideo;Video;AudioVideoEditing;Qt;
+MimeType=video/mp4;video/x-matroska;video/webm;video/quicktime;video/x-msvideo;video/mpeg;
+Keywords=video;editor;cut;trim;ffmpeg;
